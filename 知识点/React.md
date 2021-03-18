@@ -1,6 +1,8 @@
 
 
-### React
+## React
+
+### 基础内容
 
 1. 生命周期，每个阶段做什么
 2. React性能优化
@@ -14,6 +16,12 @@ react控制之外的事件中调用时同步更新，比如原生js绑定的事�
 ```
 
 
+
+### React SSR
+
+1. React SSR是在什么场景下做的？
+
+2. render和renderToString有什么区别？
 
 ## Redux
 
