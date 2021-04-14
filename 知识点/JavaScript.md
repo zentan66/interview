@@ -84,6 +84,18 @@ call性能更好，因为传入的参数和函数调用的格式一致
 for循环没有任何额外的函数调用栈和上下文
 ```
 
+33. JavaScript规定了几种语言类型
+
+```
+String、Number、Boolean、Object、null、undefined、Symbol、BigInt
+```
+
+34. 堆栈溢出和内存泄漏的原理，如何防止
+
+```
+//
+```
+
 
 
 
