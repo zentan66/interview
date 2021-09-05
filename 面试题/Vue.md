@@ -73,5 +73,7 @@ key是为vue中vnode的唯一标记，通过这个key，我们的diff操作可�
 
 #### 9.Object为什么可以自动派发更新
 
+#### 10.Vue的diff算法
+
 
 

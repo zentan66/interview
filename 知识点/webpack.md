@@ -1,14 +1,26 @@
 ## QA
 
-1. webpack配置，loader和plugin区别，如何去掉冗余代码？tree-shaking实现原理
+### webpack配置，loader和plugin区别，如何去掉冗余代码？tree-shaking实现原理
 
 ```
 
 ```
 
-2. 介绍下webpack的热更新原理，如何做到在不刷新的浏览器的前提下更新页面的
+### 介绍下webpack的热更新原理，如何做到在不刷新的浏览器的前提下更新页面的
 
 
+
+### webpack为什么慢
+
+
+
+
+
+### 说一下tree-shaking的原理
+
+> tree-shaking是一种通过清除多余代码方式来优化项目打包体积的技术
+
+通过import实现
 
 
 
